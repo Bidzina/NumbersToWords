@@ -1,0 +1,32 @@
+body{
+    padding: 12px;
+
+}
+
+#input{
+
+}
+
+h1{
+   color: forestgreen;
+}
+
+#button{
+    margin-top: 10px;
+}
+
+textarea{
+    font-size: 30;
+    width: 300px;
+    height: 300px;
+}
+
+p{
+    font-size:30px;
+    color:blue;
+}
+
+h3{
+    font-size:30px;
+    color:blue;
+}
